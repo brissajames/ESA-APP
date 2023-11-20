@@ -9,4 +9,4 @@ The repository serves as the backbone of our project. It contains all the code t
 
 
 # Contribution Guidelines
-The contribution guidelines are as per the guide found on the following github repository: [**repo:larymak/Python-project-Scripts **]([url](https://github.com/larymak/Python-project-Scripts)https://github.com/larymak/Python-project-Scripts)
+The contribution guidelines are as per the guide found on the following github repository: [repo:larymak/Python-project-Scripts]([url](https://github.com/larymak/Python-project-Scripts)https://github.com/larymak/Python-project-Scripts)
