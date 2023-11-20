@@ -16,10 +16,26 @@ The contribution guidelines are as per the guide found on the following github r
 
 # Table of Contents:
 This repository will present and explain the following content:
-- How to Install and run the project
-- How to Use the project
+- How to Install and Run the Project
+- How to Use the Project
 - Credits
 - Licenses
 
-# How to install and run the project
+# How to Install and Run the Project
+
 In order to conduct both operations, running and installing the project, the user will need to refer to the "Code" section present in this repository. The user will have the opportunity to copy the code and run it in their desired dedicated Python Integrated Development Environment (IDE). Once the code is copied into the environment, the user will continue to enter their input and make any changes to the code that fit their own personal objectives.
+
+# How to Use the Project
+This project is currently in its early stages of development and primarily includes the basic functions of the application. Here’s how you can use it:
+
+- Open the Code: The first step is to open the code. You can do this by navigating to the file containing the code in this repository.
+
+- Copy the Code: Once you’ve opened the file, you can copy the code. Simply select all the code (Ctrl+A or Cmd+A) and then copy it (Ctrl+C or Cmd+C).
+
+- Paste in Python Environment: Next, open your Python environment. This could be any environment where Python code can be executed, such as Jupyter Notebook, PyCharm, or even the Python IDLE. Once open, paste the copied code into this environment (Ctrl+V or Cmd+V).
+
+- Run the Code: After pasting the code, you can run it. Usually, there’s a ‘Run’ button or similar in your Python environment, or you can use a keyboard shortcut like F5.
+
+- Adapt to Your Needs: The code is flexible and can be adapted to suit your needs. Feel free to modify or extend the code as necessary.
+
+Please note that this project is still under development, and the current version only includes the basic functions of the application. We’re working hard to add more features and improve the user interface and design. Stay tuned for updates!
