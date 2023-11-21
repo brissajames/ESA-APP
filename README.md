@@ -21,11 +21,11 @@ This repository will present and explain the following content:
 - Credits
 - Licenses
 
-# How to Install and Run the Project
+# How to Install and Run the Project:
 
 In order to conduct both operations, running and installing the project, the user will need to refer to the "Code" section present in this repository. The user will have the opportunity to copy the code and run it in their desired dedicated Python Integrated Development Environment (IDE). Once the code is copied into the environment, the user will continue to enter their input and make any changes to the code that fit their own personal objectives.
 
-# How to Use the Project
+# How to Use the Project:
 This project is currently in its early stages of development and primarily includes the basic functions of the application. Here’s how you can use it:
 
 - Open the Code: The first step is to open the code. You can do this by navigating to the file containing the code in this repository.
@@ -41,7 +41,7 @@ This project is currently in its early stages of development and primarily inclu
 Please note that this project is still under development, and the current version only includes the basic functions of the application. We’re working hard to add more features and improve the user interface and design. Stay tuned for updates!
 
 
-# Credits
+# Credits:
 This project was a collaborative effort by a dedicated team of developers. We would like to express our gratitude to the following individuals for their invaluable contributions:
 
 - Isabella Lentini
@@ -54,6 +54,6 @@ This project was a collaborative effort by a dedicated team of developers. We wo
 
 Their collective expertise and commitment were instrumental in bringing this project to fruition.
 
-# Licenses
+# Licenses:
 License agreement can be found on the beginning of this document, going by the name of "LICENSE".
 
