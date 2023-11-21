@@ -39,3 +39,20 @@ This project is currently in its early stages of development and primarily inclu
 - Adapt to Your Needs: The code is flexible and can be adapted to suit your needs. Feel free to modify or extend the code as necessary.
 
 Please note that this project is still under development, and the current version only includes the basic functions of the application. We’re working hard to add more features and improve the user interface and design. Stay tuned for updates!
+
+
+# Credits
+This project was a collaborative effort by a dedicated team of developers. We would like to express our gratitude to the following individuals for their invaluable contributions:
+
+- Isabella Lentini
+- Sebastián Delgado
+- Juan Pablo Miró-Quesada
+- @ameneses08
+- Alejandra Hernández
+- Manuela Carreira
+- Brissa James
+
+Their collective expertise and commitment were instrumental in bringing this project to fruition.
+
+# Licenses
+
