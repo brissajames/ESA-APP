@@ -45,7 +45,7 @@ Please note that this project is still under development, and the current versio
 This project was a collaborative effort by a dedicated team of developers. We would like to express our gratitude to the following individuals for their invaluable contributions:
 
 - Isabella Lentini
-- Sebastián Delgado
+- Sebastián Delgado-Aparicio
 - Juan Pablo Miró-Quesada
 - @ameneses08
 - Alejandra Hernández
@@ -55,4 +55,5 @@ This project was a collaborative effort by a dedicated team of developers. We wo
 Their collective expertise and commitment were instrumental in bringing this project to fruition.
 
 # Licenses
+License agreement can be found on the beginning of this document, going by the name of "LICENSE".
 
