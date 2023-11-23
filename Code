@@ -1,0 +1,27 @@
+For storing the services offered by our app, we used a priority queue data structure. For this, each service acyed as an object (as in object-oriented programming) with a name, category, and rating.
+
+The priority queue uses the service’s rating to determine its priority, with higher-rated services given more priority. This is a very simplistic way of interpreting what we are aiming for but there are other things that we could do with the app, such as using hash table to store services by category, or use a binary search tree to store services by name for efficient searching.
+
+The code is the following;
+
+from queue import PriorityQueue
+
+class Service:  # Define a class for the service
+    def __init__(self, name, category, rating):   # Here we have the different aspects explained on the pseudocode, so the name, category, and rating
+        self.name = name
+        self.category = category
+        self.rating = rating
+
+    def __lt__(self, other):    # To compare the rating attribute of two Service instances
+        return self.rating < other.rating
+
+class App:  # Define a class for the app
+    def __init__(self):
+        self.services = PriorityQueue() # Create the prioriy queue
+
+    def add_service(self, name, category, rating):  # Add a service to the app
+        service = Service(name, category, rating)
+        self.services.put(service)
+
+    def get_best_service(self): # Get the highest rated service
+        return self.services.get()
