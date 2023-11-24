@@ -1,0 +1,7 @@
+The following file contains the database with the information of our service providers.
+
+It contains (for each provider);
+- id
+- name
+- sector
+- rating         
